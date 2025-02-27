@@ -15,9 +15,7 @@ sudo apt install unzip -y
 unzip awscliv2.zip
 sudo ./aws/install
 ```
-:::warning
-Este es un mensaje de advertencia importante.
-:::
+
  
 Verificación de la instalación:  
 ```bash
