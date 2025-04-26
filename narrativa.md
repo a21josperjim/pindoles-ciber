@@ -15,21 +15,26 @@ El nostre objectiu és conscienciar sobre la seguretat en entorns Kubernetes i d
 
 
 ### Males pràctiques
+
 **Introducció**
   - Presentació del tema: Males pràctiques de Kubernetes
   - La importància d'una bona configuració.
+
 **Configuracions incorrectes**
   - Creació d’un clúster insegur 
   - Configuracions en el nodegroup insegures
   - Conseqüències d’aquesta mala configuració
+
 **Configuracions correctes**
   - Creació d’un clúster segur
   - Com configurar un nodegroup segur.
   - Comprovació de les configuracions
+
 **Demostració**
   - Atac al clúster insegur
   - Atac al clúster segur
   - Diferències entre els dos escenaris
+
 **Conclusions**
   - Conclusions dels dos escenaris
   - Recomanacions
