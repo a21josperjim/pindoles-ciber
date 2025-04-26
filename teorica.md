@@ -1,4 +1,4 @@
-## NARRATIVA PILDORES
+## TEORICA PILDORES
 ### Introducció
 Kubernetes s'ha convertit en un estàndard en la computació en el núvol a causa de la seva capacitat per a orquestrar contenidors de manera eficient. Permet desplegar, escalar i administrar aplicacions de manera automatizada en entorns distribuïts.
 
